@@ -14,7 +14,6 @@ Each server has its own index.html file so that the response from different serv
 ## Server Information
 - Server 1 Public IP: 98.90.197.47
 - Server 2 Public IP: 107.21.184.42
-
 ## Current Status
 The website is working on the EC2 servers when tested locally through the terminal.  
 Public browser access and load balancer integration will be completed as the next step.
